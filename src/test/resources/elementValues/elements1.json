@@ -1,0 +1,70 @@
+[
+  {
+    "key": "sepeteBas",
+    "value": "//a[@class='link account-basket']",
+    "type": "xpath"
+  },
+  {
+    "key": "silTusu",
+    "value": "//i[@class='i-trash']",
+    "type": "xpath"
+  },
+  {
+    "key": "silOnayla",
+    "value": "//button[@class='btn-item btn-remove']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepeteEkle",
+    "value": "//div[@class='add-to-bs-wrp']",
+    "type": "xpath"
+  },
+  {
+    "key":"uruneTikla",
+    "value": "//div[@class='prdct-desc-cntnr']",
+    "type": "xpath"
+  },
+  {
+    "key": "BizKimiz",
+    "value": "//*[@id=\"footer-container\"]/div[1]/div/div[1]/div[1]/ul/li[1]/a",
+    "type": "xpath"
+  },
+  {
+    "key": "reklamKapatma",
+    "value": "//a[@title='Close']",
+    "type": "xpath"
+  },{
+    "key": "aramaButon",
+    "value": "//*[@id=\"auto-complete-app\"]/div/div/i",
+    "type": "xpath"
+},
+  {
+    "key": "aramaText",
+    "value": "//*[@id=\"auto-complete-app\"]/div/div/input",
+    "type": "xpath"
+},
+  {
+    "key": "girisMenu",
+    "value": "//*[@id=\"account-navigation-container\"]/div/div[1]/div[1]/i[2]",
+    "type": "xpath"},
+  {
+    "key": "hesabimMenü",
+    "value": "//*[@id=\"account-navigation-container\"]/div/div[1]/div[1]/i[2]",
+    "type": "xpath"},
+  {
+    "key": "email",
+    "value": "login-email",
+    "type": "id"},
+  {
+    "key": "sifre",
+    "value": "login-password-input",
+    "type": "id"},
+  {
+    "key": "girisYapButon",
+    "value": "//*[@id=\"login-register\"]/div[3]/div[1]/form/button/span",
+    "type": "xpath"},
+  {
+    "key": "hesabimIsim",
+    "value": "//*[@id=\"account-navigation-container\"]/div/div[1]/div[2]/div/p",
+    "type": "xpath"}
+]

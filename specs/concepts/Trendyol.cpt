@@ -1,0 +1,44 @@
+
+#Anasayfaya git
+* Anasayfaya gidilir
+*"1" saniye bekle
+*"reklamKapatma" tikla
+*"2" saniye bekle
+
+
+#<email> ve <sifre> kullanici girisi
+*"girisMenu" tikla
+*"2" saniye bekle
+*<email> "email" ile <sifre> "sifre" giris
+*"2" saniye bekle
+*"girisYapButon" tikla
+*"5" saniye bekle
+
+#Arama yap
+*"Samsung" ara "aramaText"
+*"3" saniye bekle
+*"aramaButon" tikla
+*"5" saniye bekle
+
+#<username> kontrol
+*"2" saniye bekle
+*"hesabimMenü" hesabim üzerine gel bekle
+*"2" saniye bekle
+*"hesabimIsim" ile <username> isim kontrol
+
+#Urun ekleme
+*"uruneTikla" ilk urune tikla "0"
+*"2" saniye bekle
+*"sepeteEkle" elementi var mi
+*"2" saniye bekle
+*"sepeteEkle" tikla
+*"3" saniye bekle
+*"sepeteBas" tikla
+*"2" saniye bekle
+*"silTusu" tikla
+*"1" saniye bekle
+*"silOnayla" tikla
+*"1" saniye bekle
+*"BizKimiz" elementi var mi
+*"1" saniye bekle
+*"BizKimiz" tikla
